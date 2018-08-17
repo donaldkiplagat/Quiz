@@ -22,3 +22,6 @@
 .jumbotron h4{
   text-decoration: underline;
 }
+ol{
+  list-style-position:inside;
+}
