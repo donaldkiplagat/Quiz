@@ -9,13 +9,33 @@
     <script src= "js/script.js"></script>
     <title>Javascript Quiz</title>
   </head>
+
   <body>
   <div class="container">
-    <div class="quiz">
-  <h1>Javascript Quiz</h1>
-  <form id="options">
+    <div class="jumbotron">
+      <h1>Javascript Quiz</h1>
+      <h4>Instructions</h4>
+        <ol>
+          <li>Cheating is not allowed!</li>
+          <li>Think before answering the questions.</li>
+          <li>If all else fails,make sure you don't (Pun Alert!!-lol).</li>
+          <li>Answer all the questions before submitting.</li>
+          <li>Results will be displayed once the test is submitted.</li>
 
-    <p>What is the shortform of HTML?</p>
+        </ol>
+
+    </div>
+    <div class="quiz">
+
+  <form id="options">
+    <br>
+    <ol>
+
+<div  class="panel panel-danger">
+  <div class="panel-heading">
+    <li> What is the shortform of HTML?</li>
+  </div>
+  <div class= "panel-body">
     <div class="radio">
       <label>
         <input type="radio" name="question1" value="20">
@@ -34,9 +54,11 @@
         MLHT
       </label>
     </div>
-  
+  </div>
+</div>
 
-    <p>What is the other name for Javascript</p>
+
+    <li>What is the other name for Javascript</li>
     <div class="radio">
       <label>
         <input type="radio" name="question2" value="0">
@@ -58,7 +80,7 @@
 
 
 
-    <p>What is the correct shortform for KFC</p>
+    <li>What is the correct shortform for KFC</li>
     <div class="radio">
       <label>
         <input type="radio" name="question3" value="0">
@@ -80,7 +102,7 @@
 
 
 
-    <p>What is the shortform of Standard Chartered</p>
+    <li>What is the shortform of Standard Chartered</li>
     <div class="radio">
       <label>
         <input type="radio" name="question4" value="0">
@@ -103,7 +125,7 @@
 
 
 
-    <p>What is the shortform of Volkswagon</p>
+    <li>What is the shortform of Volkswagon</li>
     <div class="radio">
       <label>
         <input type="radio" name="question5" value="20">
@@ -123,6 +145,7 @@
       </label>
     </div>
     <button type="submit" class="btn">Get answers</button>
+  </ol>
   </form>
 </div>
   <div class="answer">

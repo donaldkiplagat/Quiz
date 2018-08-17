@@ -8,3 +8,17 @@
 .test{
   display:none;
 }
+.jumbotron {
+    margin-bottom: 0px;
+    height:280px;
+    background-image: url(../img/javascript.jpeg);
+    background-position: 0% 48%;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: yellow;
+    text-shadow: black 0.9em 0.9em 0.9em;
+}
+.jumbotron h4{
+  text-decoration: underline;
+}
