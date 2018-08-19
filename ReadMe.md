@@ -24,8 +24,6 @@ Output Example: Please answer all the questions
 Input Example:(all answers chosen)<br>
 Output Example: Your total mark is 100/100<br>
 
-
-
 ## Technologies Used
 * HTML was used in making the skeleton of the website.
 * CSS was used in styling the document.
