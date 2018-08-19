@@ -5,6 +5,9 @@ body{
   }
 .container{
   display:show;
+  background-image: url("../img/abstract.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .answer{
