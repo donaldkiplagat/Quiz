@@ -25,3 +25,21 @@
 ol{
   list-style-position:inside;
 }
+input{
+  text-align: center;
+}
+
+.answer p{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+.answer h2{
+  
+  color: DarkBlue;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
