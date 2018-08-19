@@ -9,11 +9,9 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .answer{
   display:none;
 }
-
 .jumbotron {
     margin-bottom: 0px;
     height:280px;
@@ -34,18 +32,14 @@ ol{
 input{
   text-align: center;
 }
-
 .answer p{
   font-size: 25px;
   font-weight: bold;
   font-family: sans-serif;
-
 }
 .answer h2{
-
   color: DarkBlue;
   font-size: 30px;
   font-weight: bold;
   font-family: sans-serif;
-
 }
