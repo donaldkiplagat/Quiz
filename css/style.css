@@ -1,3 +1,8 @@
+body{
+  font-weight: bold;
+  font-family:sans-serif;
+
+  }
 .container{
   display:show;
 }
@@ -36,7 +41,7 @@ input{
 
 }
 .answer h2{
-  
+
   color: DarkBlue;
   font-size: 30px;
   font-weight: bold;
